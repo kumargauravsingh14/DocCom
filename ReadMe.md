@@ -62,7 +62,7 @@ Make sure you have following software installed in your system:
 
 First, we need to clone the repository
 ```
-git clone https://github.com/may55/DocCom.git
+git clone https://github.com/kumargauravsingh14/DocCom.git
 ```
 
 Install all required dependencies in an isolated environment
